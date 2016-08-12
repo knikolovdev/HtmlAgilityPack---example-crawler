@@ -2,7 +2,7 @@
 
 ##Features
 
-Nice UI with progress logging
-Two threads
-Saves files in excel spreadsheet
+1.Nice UI with progress logging
+2.Two threads
+3.aves files in excel spreadsheet
 
