@@ -1,8 +1,8 @@
-# HtmlAgilityPack---example-crawler 
+## HtmlAgilityPack---example-crawler 
 
-Uses xml to save data.  
+#Features
 
 Nice UI with progress logging
-
 Two threads
+Saves files in excel spreadsheet
 
